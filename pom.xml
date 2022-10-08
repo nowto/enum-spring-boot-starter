@@ -41,7 +41,7 @@
         </plugins>
     </build>
     <name>enum-spring-boot-starter</name>
-    <description>实现枚举和数值的转换操作，自动集成SpringMvc和Mybatis。枚举类需实现BaseCodeEnum接口。展示到swagger文档，需加注解@SwaggerDisplayEnum</description>
+    <description>实现枚举和数值的转换操作，自动集成至SpringMvc、Mybatis和Swagger。枚举类需实现BaseCodeEnum接口。</description>
 
     <properties>
         <java.version>1.8</java.version>
